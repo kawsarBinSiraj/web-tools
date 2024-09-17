@@ -1,33 +1,37 @@
 # web-tools
-## Tools Name	Github link		
+## List of web tools by [Kawsar Bin Siraj](https://github.com/kawsarBinSiraj)
 
-duckHunt-game-pureCSS	https://github.com/kawsarBinSiraj/duckHunt-game-pureCSS																								
-theater-controller	https://github.com/kawsarBinSiraj/theater-controller																								
-bootancy-carousel	https://github.com/kawsarBinSiraj/bootancy-carousel																								
-two-factor-rotable-div	https://github.com/kawsarBinSiraj/two-factor-rotable-div																								
-css-infinite-carousel	https://github.com/kawsarBinSiraj/css-infinite-carousel																								
-3d-text-animation	https://github.com/kawsarBinSiraj/react-3d-text-animation																								
-Smart Carousel	https://github.com/kawsarBinSiraj/smart-circle-carousel																								
-css-counter-by-loop	https://github.com/kawsarBinSiraj/css-counter-by-loop																								
-Sentence Case Conversion	https://github.com/kawsarBinSiraj/sentence-case-conversion-by-ember																								
-graphQL-apolloClient Example	https://github.com/kawsarBinSiraj/nuxt-graphQL-apolloClient-tailwindCSS-example																								
-navigation-hover-animation	https://github.com/kawsarBinSiraj/navigation-hover-animation																								
-calculator-by-solid-js	https://github.com/kawsarBinSiraj/calculator-by-solid-js																								
-image-compressor-by-vuejs	https://github.com/kawsarBinSiraj/image-compressor-by-vuejs																								
-make-multiplication-table	https://github.com/kawsarBinSiraj/make-multiplication-table?tab=readme-ov-file																								
-vuejs-generate-color-palette	https://github.com/kawsarBinSiraj/vuejs-generate-color-palette																								
-svg-round-animate-by-video-length	https://github.com/kawsarBinSiraj/svg-round-animate-by-video-length?tab=readme-ov-file																								
-Event remaining date	https://github.com/kawsarBinSiraj/event-remaining-date-time?tab=readme-ov-file																								
-nested-table-show-by-toggle	https://github.com/kawsarBinSiraj/nested-table-show-by-toggle																								
-horizontal-petty-steps	https://github.com/kawsarBinSiraj/horizontal-petty-steps?tab=readme-ov-file																								
-masonry-with-filter	https://github.com/kawsarBinSiraj/masonry-with-filter?tab=readme-ov-file																								
-Slider-onlyCSS	https://github.com/kawsarBinSiraj/slider-onlyCSS?tab=readme-ov-file																								
-css-transform-origin-illustration	https://github.com/kawsarBinSiraj/css-transform-origin-illustration																								
-clock-onlyCSS	https://github.com/kawsarBinSiraj/clock-onlyCSS																								
-cubic3D-animation-onlyCSS	https://github.com/kawsarBinSiraj/cubic3D-animation-onlyCSS																								
-jquery-petty-accordion	https://github.com/kawsarBinSiraj/jquery-petty-accordion																								
-circular-radial-progressbar	https://github.com/kawsarBinSiraj/circular-radial-progressbar																								
-DOM-element-detector	https://github.com/kawsarBinSiraj/jQuery-DOM-element-detector																								
-css-mega-menu	https://github.com/kawsarBinSiraj/css-mega-menu																								
-pettyFilter	https://github.com/kawsarBinSiraj/pettyFilter																								
-pug-to-html	https://github.com/kawsarBinSiraj/pug-to-html																																									
+Explore the wide range of my development projects, covering everything from pure CSS animations to JavaScript utilities and Vue.js applications. Click on the project names to view the code repositories.
+
+1. [Duck Hunt Game (Pure CSS)](https://github.com/kawsarBinSiraj/duckHunt-game-pureCSS)
+2. [Theater Controller](https://github.com/kawsarBinSiraj/theater-controller)
+3. [Bootancy Carousel](https://github.com/kawsarBinSiraj/bootancy-carousel)
+4. [Two Factor Rotable Div](https://github.com/kawsarBinSiraj/two-factor-rotable-div)
+5. [CSS Infinite Carousel](https://github.com/kawsarBinSiraj/css-infinite-carousel)
+6. [3D Text Animation (React)](https://github.com/kawsarBinSiraj/react-3d-text-animation)
+7. [Smart Carousel](https://github.com/kawsarBinSiraj/smart-circle-carousel)
+8. [CSS Counter by Loop](https://github.com/kawsarBinSiraj/css-counter-by-loop)
+9. [Sentence Case Conversion (Ember.js)](https://github.com/kawsarBinSiraj/sentence-case-conversion-by-ember)
+10. [GraphQL ApolloClient Example (Nuxt.js)](https://github.com/kawsarBinSiraj/nuxt-graphQL-apolloClient-tailwindCSS-example)
+11. [Navigation Hover Animation](https://github.com/kawsarBinSiraj/navigation-hover-animation)
+12. [Calculator by Solid.js](https://github.com/kawsarBinSiraj/calculator-by-solid-js)
+13. [Image Compressor by Vue.js](https://github.com/kawsarBinSiraj/image-compressor-by-vuejs)
+14. [Make Multiplication Table](https://github.com/kawsarBinSiraj/make-multiplication-table?tab=readme-ov-file)
+15. [Vue.js Generate Color Palette](https://github.com/kawsarBinSiraj/vuejs-generate-color-palette)
+16. [SVG Round Animate by Video Length](https://github.com/kawsarBinSiraj/svg-round-animate-by-video-length?tab=readme-ov-file)
+17. [Event Remaining Date Time](https://github.com/kawsarBinSiraj/event-remaining-date-time?tab=readme-ov-file)
+18. [Nested Table Show by Toggle](https://github.com/kawsarBinSiraj/nested-table-show-by-toggle)
+19. [Horizontal Petty Steps](https://github.com/kawsarBinSiraj/horizontal-petty-steps?tab=readme-ov-file)
+20. [Masonry with Filter](https://github.com/kawsarBinSiraj/masonry-with-filter?tab=readme-ov-file)
+21. [Slider Only CSS](https://github.com/kawsarBinSiraj/slider-onlyCSS?tab=readme-ov-file)
+22. [CSS Transform Origin Illustration](https://github.com/kawsarBinSiraj/css-transform-origin-illustration)
+23. [Clock Only CSS](https://github.com/kawsarBinSiraj/clock-onlyCSS)
+24. [Cubic 3D Animation Only CSS](https://github.com/kawsarBinSiraj/cubic3D-animation-onlyCSS)
+25. [jQuery Petty Accordion](https://github.com/kawsarBinSiraj/jquery-petty-accordion)
+26. [Circular Radial Progressbar](https://github.com/kawsarBinSiraj/circular-radial-progressbar)
+27. [DOM Element Detector (jQuery)](https://github.com/kawsarBinSiraj/jQuery-DOM-element-detector)
+28. [CSS Mega Menu](https://github.com/kawsarBinSiraj/css-mega-menu)
+29. [Petty Filter](https://github.com/kawsarBinSiraj/pettyFilter)
+30. [Pug to HTML Converter](https://github.com/kawsarBinSiraj/pug-to-html)
+
+Feel free to explore, contribute, or reach out if you have any feedback or questions!
